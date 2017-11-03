@@ -1,0 +1,4 @@
+image: true
+project: 252255
+requirements:
+  file: requirements.txt
